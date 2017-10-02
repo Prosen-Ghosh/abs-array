@@ -1,0 +1,35 @@
+{
+  "name": "abs-array",
+  "version": "1.0.0",
+  "description": "A JavaScript Package For Converting Negative Value To Positive. Also works when non-numbers are present as well.",
+  "main": "abs.js",
+  "scripts": {
+    "test": "mocha",
+    "readme": "node ./node_modules/.bin/node-readme"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prosen-Ghosh/abs-array.git"
+  },
+  "keywords": [
+    "abs",
+    "array",
+    "absolute array",
+    "number",
+    "positive",
+    "positive array",
+    "list",
+    "math"
+  ],
+  "author": "Prosen Ghosh <prosenghosh25@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Prosen-Ghosh/abs-array/issues"
+  },
+  "homepage": "https://github.com/Prosen-Ghosh/abs-array#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^3.5.3",
+    "node-readme": "^0.1.9"
+  }
+}
